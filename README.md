@@ -2,12 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/33387838/57179400-41324f80-6e86-11e9-8b6d-8d3612de30f2.png)
 
-# step1 convert to hsv
-![image](https://user-images.githubusercontent.com/33387838/57179433-9a9a7e80-6e86-11e9-9df4-3aebfbf425ed.png)
-
-# step2 find different color
+# step1 find different color
 
 ![image](https://user-images.githubusercontent.com/33387838/57179467-f9f88e80-6e86-11e9-8266-b7d76e22bd6e.png)
+
+# step2 convert to hsv
+![image](https://user-images.githubusercontent.com/33387838/57179433-9a9a7e80-6e86-11e9-9df4-3aebfbf425ed.png)
 
 # step3 color filter
 
